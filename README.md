@@ -15,5 +15,3 @@ CKA 공부 내용을 정리한 저장소입니다.
 9. [Storage Class](docs/09-storage-class.md)
 10. [문제 풀이 - StorageClass 생성](docs/10-create-storageclass.md)
 11. [문제풀이 - PVC 복구하기](docs/11-recover-pvc.md)
-
-> Notion에서 가져온 학습 노트를 GitHub Markdown 형식으로 정리했습니다.
