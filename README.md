@@ -15,3 +15,8 @@ CKA 공부 내용을 정리한 저장소입니다.
 9. [Storage Class](docs/09-storage-class.md)
 10. [문제 풀이 - StorageClass 생성](docs/10-create-storageclass.md)
 11. [문제풀이 - PVC 복구하기](docs/11-recover-pvc.md)
+12. [Service & Networking](docs/12-service-networking.md)
+13. [문제 풀이 - Service 생성하기](docs/13-create-service.md)
+14. [문제 풀이 - Ingress 생성하기](docs/14-create-ingress.md)
+15. [문제 풀이 - Ingress에서 Gateway로 전환하기](docs/15-ingress-to-gateway.md)
+16. [문제 풀이 - NetworkPolicy 생성하기](docs/16-create-networkpolicy.md)
