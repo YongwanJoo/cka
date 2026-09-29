@@ -20,3 +20,10 @@ CKA 공부 내용을 정리한 저장소입니다.
 14. [문제 풀이 - Ingress 생성하기](docs/14-create-ingress.md)
 15. [문제 풀이 - Ingress에서 Gateway로 전환하기](docs/15-ingress-to-gateway.md)
 16. [문제 풀이 - NetworkPolicy 생성하기](docs/16-create-networkpolicy.md)
+
+17. [Pod 생성 방법과 디자인 패턴](docs/17-pod-creation-patterns.md)
+18. [Pod가 Node에 배치되기까지 알아야할 속성들](docs/18-pod-scheduling-constraints.md)
+19. [문제풀이 - Core Components 장애 해결하기](docs/19-core-components-troubleshooting.md)
+20. [문제풀이 - 로그 출력 Sidecar 생성](docs/20-sidecar-logs.md)
+21. [문제풀이 - CPU & memory 재설정](docs/21-cpu-memory-requests.md)
+22. [문제풀이 - PriorityClass 생성](docs/22-priorityclass.md)
