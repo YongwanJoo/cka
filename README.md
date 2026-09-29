@@ -27,3 +27,8 @@ CKA 공부 내용을 정리한 저장소입니다.
 20. [문제풀이 - 로그 출력 Sidecar 생성](docs/20-sidecar-logs.md)
 21. [문제풀이 - CPU & memory 재설정](docs/21-cpu-memory-requests.md)
 22. [문제풀이 - PriorityClass 생성](docs/22-priorityclass.md)
+23. [전체 개요](docs/23-overview.md)
+24. [문제풀이 - Helm으로 ArgoCD 배포](docs/24-helm-argocd.md)
+25. [문제풀이 - CNI 설치](docs/25-install-cni.md)
+26. [문제풀이 - CRI 설치](docs/26-install-cri.md)
+27. [문제풀이 - kubectl로 CRD 출력](docs/27-kubectl-crd-output.md)
